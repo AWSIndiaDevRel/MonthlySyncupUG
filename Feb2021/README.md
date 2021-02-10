@@ -1,7 +1,7 @@
 # Feburary 2021 AWS User Group Sync-up (SAARC) MoM
 
-DATE: 09-Feb-2021 
-TIME: 7PM-8PM (IST)
+**DATE**: 09-Feb-2021 
+**TIME**: 7PM-8PM (IST)
 
 Thanks everyone for joining in :) 
 
