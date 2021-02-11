@@ -20,7 +20,7 @@ Thanks everyone for joining in :)
 ## Notes 
 - Update your contact details, and T-shirt sizes in the sheet, which was shared in the our internal group 
 - Adding your meetup group to our [AWS User Group Global Page](https://aws.amazon.com/developer/community/usergroups/) - Please reach out to Suman/Rohini if this is not done already. 
-- Upload the city Icons Badge layouts to the folder “Custom-City-Icons-Badge” : Suman/Rohini to followup with the team 
+- Upload the city Icons Badge layouts to the “Custom-City-Icons-Badge” [folder](https://drive.google.com/drive/folders/1-IYA6u8sTEaPCgJpTdhDdVZcCsJ0kK8a) : Suman/Rohini to followup with the team 
 - If you are hosting re:Cap in your city, please reachout to Suman/Rohini for credits 
 - Check out our [AWS User Group Swag Store](https://stores.kotisdesign.com/awsusergroups/sign_in) to order t-shirts, stickers, pins and other various swag for your meetups.
 - Join the [AWS User Group Leaders Slack channel](https://aws-usergroup-leaders.slack.com/) so you can interact and engage with us and other UG Leaders around the world
