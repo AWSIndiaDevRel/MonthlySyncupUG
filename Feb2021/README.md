@@ -7,7 +7,8 @@ Thanks everyone for joining in :)
 
 ![](img.jpeg) 
 
-## Action Items - GDrive folder link is shared in the WhatsApp Group, also available in group description. Following refer to sheets & folders in that drive.
+## Action Items - 
+GDrive folder link is shared in the WhatsApp Group, also available in group description. Following refer to sheets & folders in that drive.
 
 - Update your contact details, and T-shirt sizes in the sheet
 
